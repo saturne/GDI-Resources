@@ -21,5 +21,7 @@
 - [She Geeks Out] (https://www.shegeeksout.com/events/)
 - [Women Techmakers @ Google](https://www.womentechmakers.com/)
 
-##Github Pages for hosting a site with no backend
--[Github Page](https://pages.github.com/)
+##Hosting a site
+- [Github Pages](https://pages.github.com/)
+- [Namecheap](https://www.namecheap.com/)
+
